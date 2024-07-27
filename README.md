@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Naveen0987
-- 👀 I’m interested in ...Web-Development
-- 🌱 I’m currently learning ...HTML,CSS,BOOTSTRAP,JS
+- 👀 I’m interested in ...Java Developer
+- 🌱 I’m currently learning ...Java FUllStack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...naveennaveengoud10@gmail.com
 
