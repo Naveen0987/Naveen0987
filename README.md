@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Naveen0987
-- 👀 I’m interested in ...Java Developer
-- 🌱 I’m currently learning ...Java FUllStack
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...naveennaveengoud10@gmail.com
-
-<!---
-Naveen0987/Naveen0987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there! 👋 I'm Naveen (@Naveen0987). I'm a tech enthusiast with a passion for developing innovative solutions. Currently, I'm expanding my skills in Java Full Stack development and Web Development. I'm excited to collaborate on projects that align with my interests and expertise. Feel free to reach out to me at naveennaveengoud10@gmail.com 📫"
+Alternatively, you could also mention specific technologies or areas within web development that interest you, such as:
+Front-end development (js, css, html)
+Back-end development (Java, Spring, Hibernet, SQL)
+Full-stack development
